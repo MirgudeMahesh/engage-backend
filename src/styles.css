@@ -1,0 +1,834 @@
+/* home styling */
+.page-home{
+    width: 100%;
+   height:782px;
+   
+   background-color: rgb(150, 143, 143);
+    display: flex;
+   
+}
+.left-page-home{
+  /* 240 */
+    width: 17%;
+    background-color: rgb(0, 0, 0);
+  
+
+
+}
+.left-page-home1{
+  width: 120px;
+  background-color: rgb(0, 0, 0);
+  border-right: 0.5px solid #c0d8c0;
+
+
+}
+.right-page-home1{
+ 
+  width: 1180px;
+  /* background-color: rgb(101, 97, 97); */
+  background-color: black;
+ 
+}
+.right-page-home3{
+  width: 1180px;
+  background-color: black;
+ 
+}
+.right-page-home{
+    /* width: 1050px; */
+    width:66% ;
+    /* background-color: rgb(101, 97, 97); */
+    background-color: black;
+    border-left: 1px solid white;
+}
+.navbar{
+    margin-top: 50px;
+   
+    
+}
+
+
+.button-list  li {
+    margin-bottom: 65px; /* Adjust as needed */
+    list-style-type: none;
+    margin-left: 10px;
+   
+    
+   
+  }
+  .button-list1  li {
+    margin-bottom: 45px; /* Adjust as needed */
+    list-style-type: none;
+   width: 50px;
+   
+    
+   
+  }
+ 
+.manage:hover{
+   background-color:rgb(54, 54, 50);width:250px;
+border-radius: 30px }
+.manage1:hover{
+  background-color:rgb(95, 95, 93);width:101px;border-radius: 30px
+ }
+
+  .text-button {
+    background: none;
+    border: none;
+    text-decoration: none;
+ 
+    
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+   
+    
+    /* Optionally, add underlining to make it look more like a text link */
+  }
+  
+  /* Hover effect */
+  .button-list li button:hover {
+    
+/*     
+     color:black;
+    background-color: rgb(225, 216, 216);  */
+  }
+  
+  .image-home{
+    width:120px;
+    height: 110px;
+
+  }
+  
+  .image-fit{
+    margin-left:48px;
+    margin-top: 15px;
+
+   
+    
+  }
+  .image-fit1{
+    margin-left:3px;
+    margin-top: 15px;
+   
+    
+  }
+  .image-home3{
+    
+    width:35px;
+    height: 35px;
+    
+    margin-right: 20px;
+  border-radius: 8px;
+  }
+
+  .image-home1{
+    width:30px;
+    height: 30px;
+    
+    margin-right: 10px;
+  }
+  .image-home7{
+    width:90px;
+    height: 90px;
+    background-color: white;
+    margin-left: 15px;
+  }
+ 
+  .manager{
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  .cards{
+    margin-bottom: 15px;
+    margin-left: 20px;
+  }
+
+/* /// */
+
+.page{
+   width: 1535px;
+   height:780px;
+    background-color: black;
+    display: flex
+}
+.left-page{
+    width: 550px;
+    background-color: rgb(37, 12, 59);
+}
+.loginpage{
+
+    
+    background-color: rgb(0, 0, 0);
+    
+    height: 260px;
+    margin-top: 180px;
+    border: 2px solid rgb(245, 255, 62);
+   
+    
+    align-items: center;
+    flex-direction: column;
+    border-radius: 40px;
+    width:320px;
+    margin-left: 105px;
+   
+    padding: 50px;
+    padding-left: 40px;
+    padding-top: 40px;
+    color: white;
+
+}
+.loginpage div {
+    padding-top: 10px;
+    
+    
+}
+/* .loginpage div input{
+    border-radius: 15px;
+    height: 20px;
+    width: 180px;
+} */
+
+.loginpage div button:hover{
+    background-color: rgb(29, 29, 25);
+    color: white;
+}
+.password{
+    margin-left: 30px;
+    border-radius: 15px;
+    height: 20px;
+    width: 180px;
+    margin-left: 28px;
+       
+}
+.password1{
+    margin-left: 30px;
+    border-radius: 15px;
+    height: 20px;
+    width: 180px;
+    margin-left: 28px;
+       
+}
+.username{
+margin-bottom: 12px;
+background-color: rgb(255, 255, 254);
+border-radius: 15px;
+    height: 20px;
+    width: 180px;
+    
+}
+.email{
+    margin-bottom: 12px;
+    border-radius: 15px;
+    height: 20px;
+    
+    width: 180px;
+    
+    
+}
+.image{
+    width: 350px;
+    height: 350px;
+ margin-left: 320px;
+ margin-top: 200px;
+}
+.description{
+    color: rgb(144, 91, 155);
+    font-size: 35px;
+    margin-left: 250px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.loginreg{
+    background-color: rgb(60, 60, 166);
+    color: white;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 80px;
+   
+    
+}
+.loginreg1{
+    background-color: rgb(60, 60, 166);
+    color: white;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    margin-top: 2px;
+    margin-left: 80px;
+   
+    
+}
+
+.button-like-text {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    font: inherit;
+    color: #007bff; /* Default text color */
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  .button-like-text:hover {
+    color: #0056b3; /* Text color on hover */
+  }
+  
+  .button-like-text:focus {
+    outline: none; /* Remove the outline when focused */
+  }
+  
+  .button-like-text:active {
+    /* Add any active styles if needed */
+  }
+  .firsttime{
+   margin-top: 10px;
+   margin-left: 45px;
+  }
+  .firsttime1{
+    margin-top: -5px;
+    margin-left: 45px;
+   }
+
+
+
+.card-container {
+
+padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 50px;
+  max-height: 500px;
+  margin-top: 30px;
+ /* overflow-y: auto; */
+ width: 900px;
+
+
+ overflow-y: scroll
+ 
+
+}
+.card-container::-webkit-scrollbar {
+  width: 12px; /* Adjust as needed */
+}
+
+.card-container::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}
+
+.card-container:hover::-webkit-scrollbar-thumb {
+  background-color: #888; /* Adjust as needed */
+}
+
+.card {
+  color:white;
+  
+  flex: 0 0 calc(33.33% - 30px); /* Adjust the width as needed */
+  background-color: #707274;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  margin-right: 20px;
+ 
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 25px;
+  width: 1100px;
+  box-sizing: border-box;
+}
+.card-image{
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  margin-left: 50px;
+  border: 2px solid black;
+  
+}
+.card button{
+  background-color: black;
+  color: white;
+  width: 150px;
+  margin-left: 25px;
+  border-radius: 19px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.card button:hover{
+  background-color: white;
+  color: black;
+}
+.location{
+  width: 20px;
+  height: 20px;
+  
+}
+
+.profile-button{
+  margin-top: 350px;
+  margin-left: 450px;
+  border-radius: 20px;
+  width: 200px;
+  color: white;
+  background-color: green;
+ 
+  
+  
+}
+.profile-button:hover{
+background-color: rgb(108, 204, 108);
+color:black
+}
+
+.my-profile{
+  border: 2px solid black;
+  width: 400px;
+  height: 440px;
+  padding:20px;
+  margin-left: 300px;
+  margin-top: 140px;
+  border-radius: 20px;
+  background-color: rgb(46, 42, 42);
+}
+.usernamex{
+  border-radius: 5px;
+  margin-top: 35px;
+  margin-left: 50px;
+  width: 250px;
+
+}
+
+.profile-submit{
+  width:100px;
+margin-top:30px;
+background-color:#6192c6;
+border-radius:20px;
+margin-left: 120px;
+font-weight: 500;
+
+
+}
+.profile-submit:hover{
+  background-color: black;
+color:white
+}
+.profile-buttonxx{
+  margin-top: 350px;
+  margin-left: 450px;
+ 
+  width: 200px;
+  color: black
+
+ 
+  
+  
+}
+.bio-data{
+  margin-top: 40px;
+  padding: 30px;
+  
+}
+.row-info{
+  display: flex;
+  /* align-items: center; */
+  margin-top: 10px;
+  color:black;
+  font-weight: 500;
+  
+}
+.card-image2{
+  width: 170px;
+  height: 170px;
+  border-radius: 50px;
+  margin-left: 150px;
+ 
+  
+  
+}
+.followers{
+  margin-left: 140px;
+  font-size: large;
+  margin-top: 35px;
+  color: white;
+  
+  
+}
+.connections{
+  margin-left: 100px;
+  font-size: large;
+  margin-top: 32px;
+  color: white;
+}
+.edit-profile{
+  margin-left: 30px;
+  border-radius: 12px;
+  background-color: rgb(57, 51, 51);
+  color: white;
+  border: 0.5px solid white;
+  display: flex;
+  width: 130px;
+  height: 30px;
+  
+}
+
+.edit-profile:hover{
+  background-color: rgb(241, 229, 229);
+  color: black;
+  font-weight: 500;
+}
+
+.Advertisement{
+  margin-top:115px;
+  margin-left: 450px;
+  border-radius: 7px;
+  background-color: white;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Ensures centering vertically */
+}
+.request-section{
+  padding: 20px;
+  
+  
+ 
+}
+.request-member{
+  border:2px solid black;
+  height: 105px;
+  width: 200px;
+  border-radius: 20px;
+ 
+    margin-bottom: 20px;
+   
+    
+      background: linear-gradient(to right, rgb(199, 172, 172), rgb(70, 55, 55) 33.33%, rgb(137, 142, 137) 100%);
+
+  
+  
+}
+.upper-part{
+margin-left: 20px;
+display: flex;
+margin-top: 15px;
+}
+.lower-part{
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.card-image3{
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  margin-left: 10px;
+
+  margin-top: 5px;
+
+ 
+  
+  
+}
+.yesbutton{
+  background: none;
+  border-radius: 1px solid black;
+  background-color: white;
+    width: 50px;
+    padding: 0;
+    margin: 0;
+    margin-left: 15px;
+    margin-top: -9px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: rgb(201, 186, 186);
+
+}
+.nobutton{
+  
+  height: 20px;
+  background: none;
+  /* border: none; */
+  border-radius: 1px solid black;
+  background-color: rgb(201, 186, 186);
+  
+    width: 50px;
+    border-radius: 20px;
+  padding: 0;
+  margin: 0;
+  margin-left: 40px;
+  margin-top: -9px;
+}
+.yesb{
+  width: 15px;
+  height: 15px;
+  margin-bottom: 10px;
+}
+.nob{
+  width: 10px;
+  height: 10px;
+  margin-bottom: 10px;
+}
+.yesbutton:hover{
+  background-color: #35c14f;
+}
+.nobutton:hover{
+  background-color: rgb(210, 79, 79);
+}
+
+.edit-image{
+  width: 25px;
+  height: 22px;
+  margin-left: 10px;
+  margin-bottom: 3px;
+  background-color: #292b2d;
+
+}
+.confirm{
+  height: 30px;
+  width: 30px;
+  
+}
+.search{
+  margin-left: 80px;
+  width: 600px;
+  border-radius: 20px;
+  padding-left: 30px;
+  height: 30px;
+  
+}
+
+.search-logo{
+  width: 25px;
+  height: 25px;
+}
+.search-button{
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  margin-left: 6px;
+}
+.search-button1{
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  /* margin-left: 6px; */
+}
+
+
+.row-info1 {
+  display: flex;
+  /* align-items: center; */
+  
+  color:black;
+  margin-top: 20px;
+  font-weight: 500;
+  
+}
+.underline{
+  color: white;
+  
+}
+.underline:hover{
+  text-decoration: underline;
+}
+
+.card-image5{
+  width: 170px;
+  height: 170px;
+  border-radius: 90px;
+  margin-left: 150px;
+  margin-bottom: 15px;
+  margin-top: -30px;
+ 
+  
+  
+}
+.no-posts{
+ 
+  margin-left: 5px;
+  margin-top: 5px;
+
+}
+.card-image6{
+  width: 170px;
+  height: 170px;
+  border-radius: 90px;
+ 
+
+  margin-bottom: 1px;
+  margin-top: -20px;
+ 
+  
+  
+}
+.delete-icon{
+  background: none;
+  border: none;
+  padding: 0;
+ 
+  margin-left: 280px;
+  
+}
+.deleteee{
+  width: 20px;
+  height: 20px;
+
+}
+.no-btn1{
+  background:none;
+ 
+    border: none;
+    padding: 0;
+    margin: 0;
+
+  
+}
+.no-btn11{
+  background:none;
+
+ 
+    border: none;
+    padding: 0;
+    margin: 0;
+    color:black;
+    font-weight: 400;
+    
+  
+}
+
+.no-btn2{
+  background:none;
+ 
+    border: none;
+    padding: 0;
+    margin: 0;
+  margin-left: 80px;
+}
+.follower-container{
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+  max-height: 230px;
+overflow-y:scroll;
+
+
+
+
+
+}
+.follower-container::-webkit-scrollbar {
+  display: none;
+}
+
+.follower{
+  display: flex;
+  
+  align-items: center;
+  height: 70px;
+  
+  
+
+}
+.no-btn7{
+  background:none;
+  background-color:   211f1f;
+
+
+    border: none;
+    padding: 0;
+    margin: 0;
+    color: white;
+  width: 100%;
+  margin-bottom: 30px;
+  height: 30px;
+
+font-weight: 700;
+
+  
+ 
+}
+.no-btn7:hover{
+  background-color:#292b2d ;
+}
+
+
+.no-btn9{
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  color: white;
+  width: 270px;
+  border-radius: 15px;
+}
+.no-btn9:hover{
+  
+  background-color:rgb(51, 48, 48);
+  
+}
+.side {
+ 
+  /* max-width: 70%;
+  margin: 10px;
+
+  padding: 10px;
+  border-radius: 8px;
+  /* align-self: flex-end; */
+  /* float: right;
+  clear: both;
+ background-color: #35c14f;  */
+ margin-top: 10px;
+    max-width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+ 
+}
+.left{
+  
+  /* max-width: 70%;
+  margin: 10px; */
+float: left;
+clear: both;
+  /* padding: 10px;
+  border-radius: 8px; */
+  /* align-self: flex-start; */
+  background-color: #35c14f;
+
+
+}
+.right{
+  
+  /* max-width: 70%;
+  margin: 10px; */
+float: right;
+clear: both;
+  /* padding: 10px;
+  border-radius: 8px; */
+  /* align-self: flex-start; */
+  background-color: #35c14f;
+
+
+}
+/* .start{
+  max-width: 70%;
+  margin: 10px;
+
+  padding: 10px;
+  border-radius: 8px;
+
+} */
+.yesbutton:disabled {
+  background-color: green; /* Change background color to green when disabled */
+}
+.nobutton:disabled {
+  background-color: red; /* Change background color to green when disabled */
+}
